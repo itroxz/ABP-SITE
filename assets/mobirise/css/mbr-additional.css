@@ -1359,6 +1359,23 @@ a {
 .cid-uOI5n9uxRv .mbr-section-btn {
   text-align: center;
 }
+.cid-uPWXnOSvNQ {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #edefeb;
+}
+.cid-uPWXnOSvNQ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uPWXnOSvNQ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-uOI5n9uEyV {
   padding-top: 5rem;
   padding-bottom: 5rem;
